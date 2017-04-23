@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "895020183937",
+    "firebase_url": "https://hackfresnoapp.firebaseio.com",
+    "project_id": "hackfresnoapp",
+    "storage_bucket": "hackfresnoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895020183937:android:14b30ca43d2303b7",
+        "android_client_info": {
+          "package_name": "com.hackfresno17.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895020183937-5199spra39sjftgtcc3sgmebr921dhan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackfresno17.myapplication",
+            "certificate_hash": "1403b54e367cf61e8853df446b5f82610db54722"
+          }
+        },
+        {
+          "client_id": "895020183937-58b7fot94oo1and65n1k5jsk6schgrro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5seu6u-LomvLNmcv-a6r3a7imlm5Q05g"
+        },
+        {
+          "current_key": "AIzaSyCpSgFeQgHvWvjEMp-kt6Sx3BdpUi3k4_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895020183937-58b7fot94oo1and65n1k5jsk6schgrro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

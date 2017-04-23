@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_id" translatable="false">1430993670308923</string>
+
+    <string name="logout">Log Out</string>
+
+    <string name="allergies">Select any allergies</string>
+    <string name="allergy1">Milk</string>
+    <string name="allergy2">Eggs</string>
+    <string name="allergy3">Soy</string>
+    <string name="allergy4">Wheat</string>
+    <string name="allergy5">Pecans</string>
+    <string name="allergy6">Sesame</string>
+    <string name="allergy7">Almonds</string>
+    <string name="allergy8">Walnuts</string>
+    <string name="allergy9">Fish</string>
+    <string name="allergy10">Lobster</string>
+    <string name="allergy11">Shrimp</string>
+    <string name="allergy12">Crab</string>
+
+    <string name="dollar1">$</string>
+    <string name="dollar2">$$</string>
+    <string name="dollar3">$$$</string>
+    <string name="dollar4">$$$$</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="skip">SKIP</string>
+</resources>
